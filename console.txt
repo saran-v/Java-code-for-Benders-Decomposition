@@ -1,0 +1,17 @@
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  COST
+Selected RHS        name:  RHS
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  COST
+Selected RHS        name:  RHS
+
+Algorithm Starts: 
+LB: 32099.999999999767 UB: 1800000.0 Iter: 1
+LB: 89502.02887858287 UB: 113716.66666666651 Iter: 2
+LB: 90199.99999999965 UB: 92025.42158515981 Iter: 3
+LB: 90199.99999999974 UB: 90199.99999999965 Iter: 4
+Algorithm Ends: 
+
+ Total Time Taken (Secs): 0
