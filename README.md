@@ -33,6 +33,6 @@ Algorithm Ends:
 
 Citation:
 ---------
-To cite the code used in this repository,r use the following citation:
+To cite the code used in this repository, use the following citation:
 
 S. Venkatachalam. Java Code for Benders Decomposition. https://github.com/bengu77/Java-code-for-Benders-Decomposition/, 2020.
