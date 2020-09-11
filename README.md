@@ -35,4 +35,4 @@ Citation:
 ---------
 To cite the code used in this repository, use the following citation:
 
-S. Venkatachalam. Java Code for Benders Decomposition. https://github.com/bengu77/Java-code-for-Benders-Decomposition/, 2020.
+S. Venkatachalam. Java Code for Benders Decomposition. https://github.com/saran-v/Java-code-for-Benders-Decomposition/, 2020.
